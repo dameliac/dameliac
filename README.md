@@ -99,7 +99,7 @@ management and reduce repetitive tasks.
 **Stack:** Power Apps · Power Automate · SharePoint · Dataverse
 
 [Explore my
-repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+repositories](https://github.com/dameliac?tab=repositories)
 
 ### `02 / Mobile Application Development`
 
@@ -109,7 +109,7 @@ interfaces, practical functionality, and maintainable code.
 **Stack:** Flutter · Dart · APIs · Database integration
 
 [Explore my
-repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+repositories](https://github.com/dameliac?tab=repositories)
 
 ### `03 / Web Development`
 
@@ -119,7 +119,7 @@ integration, and full-stack development.
 **Stack:** HTML · CSS · JavaScript · Vue.js · PHP · MySQL
 
 [Explore my
-repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+repositories](https://github.com/dameliac?tab=repositories)
 
 ### `04 / UI/UX Design`
 
@@ -168,8 +168,8 @@ repositories](https://github.com/YOUR_USERNAME?tab=repositories)
 I'm interested in connecting with developers, designers, cybersecurity
 professionals, and people building useful technology.
 
--   **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
--   **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+-   **GitHub:** [@YOUR_USERNAME](https://github.com/dameliac)
+-   **LinkedIn:** [Connect with me](www.linkedin.com/in/dameliac)
 -   **Portfolio:** [Visit my portfolio](YOUR_PORTFOLIO_URL)
 
 ::: {align="center"}
