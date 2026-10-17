@@ -1,179 +1,63 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,50:312E81,100:00F5FF&height=200&section=header&text=Damelia%20Coleman&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Automation%20%7C%20Security&descAlignY=60&descSize=16" width="100%" alt="Damelia Coleman — Software, Automation, Security" />`{=html}
+<div align="center">
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=520&lines=Hello%2C+World!;I+build+software+that+solves+problems.;Automate.+Create.+Secure.;Always+learning%2C+always+building." alt="Animated introduction" />`{=html}
+<img src="assets/banner.svg" width="100%" alt="Damelia Coleman — Software, Automation, Security" />
 
-`<br/>`{=html}
+<img src="assets/tagline.svg" width="100%" alt="Hello, World! I build software that solves problems. Automate. Create. Secure. Always learning, always building." />
 
-[![GitHub](https://img.shields.io/badge/GitHub-080B14?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-080B14?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](YOUR_LINKEDIN_URL)
-:::
+<br/>
 
-------------------------------------------------------------------------
+<a href="https://github.com/dameliac"><img src="assets/btn-github.svg" height="56" alt="GitHub" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dameliac"><img src="assets/btn-linkedin.svg" height="56" alt="LinkedIn" /></a>
 
-## `> whoami`
+</div>
 
-I'm a Computer Science graduate passionate about developing practical
-software, designing intuitive interfaces, and automating business
-processes.
+<img src="assets/h-whoami.svg" width="100%" alt="> whoami" />
 
-My interests span application development, the Microsoft Power Platform,
-UI/UX design, and cybersecurity. I enjoy turning real-world problems
-into useful, well-designed technology.
+I'm a Computer Science graduate passionate about developing practical software, designing intuitive interfaces, and automating business processes.
 
-``` python
-class Developer:
-    name = "Damelia Coleman"
-    education = "BSc Computer Science"
-    interests = [
-        "Software Development",
-        "Business Process Automation",
-        "UI/UX Design",
-        "Cybersecurity",
-    ]
-    mindset = "Learn. Build. Improve."
+My interests span application development, the Microsoft Power Platform, UI/UX design, and cybersecurity. I enjoy turning real-world problems into useful, well-designed technology.
 
-    def next_step(self):
-        return "Turning ideas into working solutions."
-```
+<img src="assets/terminal.svg" width="100%" alt="class Developer: name = Damelia Coleman, education = BSc Computer Science, interests = Software Development, Business Process Automation, UI/UX Design, Cybersecurity, mindset = Learn. Build. Improve." />
 
-## `> tech_stack --list`
+<img src="assets/h-stack.svg" width="100%" alt="> tech_stack --list" />
 
-::: {align="center"}
-**LANGUAGES**
+<img src="assets/skills.svg" width="100%" alt="Languages: Python, Java, JavaScript, PHP, HTML5, CSS3. Frameworks and platforms: Flutter, Vue.js, Power Apps, Power Automate. Databases and tools: MySQL, Git, GitHub, Figma." />
 
-![Python](https://img.shields.io/badge/Python-080B14?style=for-the-badge&logo=python&logoColor=00F5FF)
-![Java](https://img.shields.io/badge/Java-080B14?style=for-the-badge&logo=openjdk&logoColor=00F5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-080B14?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-080B14?style=for-the-badge&logo=php&logoColor=A78BFA)
-![HTML5](https://img.shields.io/badge/HTML5-080B14?style=for-the-badge&logo=html5&logoColor=FF7849)
-![CSS3](https://img.shields.io/badge/CSS3-080B14?style=for-the-badge&logo=css3&logoColor=00F5FF)
+<img src="assets/h-build.svg" width="100%" alt="> what_i_build" />
 
-**FRAMEWORKS & PLATFORMS**
+<img src="assets/focus.svg" width="100%" alt="software_dev: web and mobile applications, backend integration, practical problem-solving. business_automation: canvas apps, workflow automation, SharePoint and Dataverse. ui_ux: wireframes, prototypes, accessible interfaces. cybersecurity: security fundamentals through structured study and authorised labs." />
 
-![Flutter](https://img.shields.io/badge/Flutter-080B14?style=for-the-badge&logo=flutter&logoColor=00F5FF)
-![Vue.js](https://img.shields.io/badge/Vue.js-080B14?style=for-the-badge&logo=vuedotjs&logoColor=4ADE80)
-![Power
-Apps](https://img.shields.io/badge/Power_Apps-080B14?style=for-the-badge&logo=powerapps&logoColor=A78BFA)
-![Power
-Automate](https://img.shields.io/badge/Power_Automate-080B14?style=for-the-badge&logo=powerautomate&logoColor=00F5FF)
+<img src="assets/h-projects.svg" width="100%" alt="> featured_projects" />
 
-**DATABASES & TOOLS**
+<a href="https://github.com/dameliac?tab=repositories"><img src="assets/project-01.svg" width="100%" alt="01 Business Applications and Automation — Power Apps, Power Automate, SharePoint, Dataverse" /></a>
 
-![MySQL](https://img.shields.io/badge/MySQL-080B14?style=for-the-badge&logo=mysql&logoColor=00F5FF)
-![Git](https://img.shields.io/badge/Git-080B14?style=for-the-badge&logo=git&logoColor=FF7849)
-![GitHub](https://img.shields.io/badge/GitHub-080B14?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-080B14?style=for-the-badge&logo=figma&logoColor=A78BFA)
-:::
+<a href="https://github.com/dameliac?tab=repositories"><img src="assets/project-02.svg" width="100%" alt="02 Mobile Application Development — Flutter, Dart, APIs, Database integration" /></a>
 
-## `> what_i_build`
+<a href="https://github.com/dameliac?tab=repositories"><img src="assets/project-03.svg" width="100%" alt="03 Web Development — HTML, CSS, JavaScript, Vue.js, PHP, MySQL" /></a>
 
-  -----------------------------------------------------------------------
-  Focus                               What it means
-  ----------------------------------- -----------------------------------
-  `software_dev`                      Web and mobile applications,
-                                      backend integration, and practical
-                                      problem-solving
+<a href="https://github.com/dameliac?tab=repositories"><img src="assets/project-04.svg" width="100%" alt="04 UI/UX Design — Figma" /></a>
 
-  `business_automation`               Canvas apps, workflow automation,
-                                      SharePoint and Dataverse solutions
+<a href="https://github.com/dameliac?tab=repositories"><img src="assets/project-05.svg" width="100%" alt="05 Cybersecurity Learning Lab — Security fundamentals, Vulnerability assessment, Ethical hacking" /></a>
 
-  `ui_ux`                             Wireframes, prototypes, accessible
-                                      interfaces, and user-centred design
+<img src="assets/h-mission.svg" width="100%" alt="> current_mission" />
 
-  `cybersecurity`                     Learning security fundamentals
-                                      through structured study and
-                                      authorised practice labs
-  -----------------------------------------------------------------------
+<img src="assets/mission.svg" width="100%" alt="Active: building practical software solutions. Active: improving application design and usability. Learning: strengthening cybersecurity fundamentals. Next: more projects, better code, deeper knowledge." />
 
-## `> featured_projects`
+<img src="assets/h-stats.svg" width="100%" alt="> github_stats" />
 
-> Replace these starter entries with real project names, repository
-> links, screenshots, and details as you publish your work.
+<div align="center">
 
-### `01 / Business Applications & Automation`
+<img src="https://github-readme-stats.vercel.app/api?username=dameliac&show_icons=true&bg_color=070A1F&title_color=8FD3FF&icon_color=B9A8FF&text_color=BFD9FF&border_color=2A3170&border_radius=14&hide_border=false" height="165" alt="GitHub statistics" />
 
-Building applications and automated workflows to improve information
-management and reduce repetitive tasks.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dameliac&layout=compact&bg_color=070A1F&title_color=8FD3FF&icon_color=B9A8FF&text_color=BFD9FF&border_color=2A3170&border_radius=14&hide_border=false" height="165" alt="Most-used programming languages" />
 
-**Stack:** Power Apps · Power Automate · SharePoint · Dataverse
+</div>
 
-[Explore my
-repositories](https://github.com/dameliac?tab=repositories)
+<img src="assets/h-connect.svg" width="100%" alt="> connect --with-me" />
 
-### `02 / Mobile Application Development`
+I'm interested in connecting with developers, designers, cybersecurity professionals, and people building useful technology.
 
-Developing mobile application concepts with a focus on usable
-interfaces, practical functionality, and maintainable code.
+- **GitHub:** [@dameliac](https://github.com/dameliac)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dameliac)
+<!-- - **Portfolio:** [Visit my portfolio](ADD_PORTFOLIO_URL_HERE) -->
 
-**Stack:** Flutter · Dart · APIs · Database integration
-
-[Explore my
-repositories](https://github.com/dameliac?tab=repositories)
-
-### `03 / Web Development`
-
-Exploring responsive interfaces, application logic, database
-integration, and full-stack development.
-
-**Stack:** HTML · CSS · JavaScript · Vue.js · PHP · MySQL
-
-[Explore my
-repositories](https://github.com/dameliac?tab=repositories)
-
-### `04 / UI/UX Design`
-
-Turning user needs and early ideas into clear wireframes, prototypes,
-and intuitive interfaces.
-
-**Tools:** Figma
-
-[Explore my
-repositories](https://github.com/YOUR_USERNAME?tab=repositories)
-
-### `05 / Cybersecurity Learning Lab`
-
-Documenting cybersecurity learning, security concepts, and exercises
-completed in authorised lab environments.
-
-**Focus:** Security fundamentals · Vulnerability assessment · Ethical
-hacking
-
-[Explore my
-repositories](https://github.com/YOUR_USERNAME?tab=repositories)
-
-## `> current_mission`
-
-``` text
-[ ACTIVE   ] Building practical software solutions
-[ ACTIVE   ] Improving application design and usability
-[ LEARNING ] Strengthening cybersecurity fundamentals
-[ NEXT     ] More projects. Better code. Deeper knowledge.
-```
-
-## `> github_stats`
-
-::: {align="center"}
-`<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=080B14&title_color=00F5FF&icon_color=A78BFA&text_color=C9D1D9" height="165" alt="GitHub statistics" />`{=html}
-
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=080B14&title_color=00F5FF&text_color=C9D1D9" height="165" alt="Most-used programming languages" />`{=html}
-
-`<br/>`{=html}
-
-`<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F5FF&style=flat&label=PROFILE+VIEWS" alt="Profile views" />`{=html}
-:::
-
-## `> connect --with-me`
-
-I'm interested in connecting with developers, designers, cybersecurity
-professionals, and people building useful technology.
-
--   **GitHub:** [@YOUR_USERNAME](https://github.com/dameliac)
--   **LinkedIn:** [Connect with me](www.linkedin.com/in/dameliac)
--   **Portfolio:** [Visit my portfolio](YOUR_PORTFOLIO_URL)
-
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:312E81,100:080B14&height=100&section=footer" width="100%" alt="" />`{=html}
-
-`while (curious) { learn(); build(); improve(); }`
-:::
+<img src="assets/footer.svg" width="100%" alt="while (curious) { learn(); build(); improve(); }" />
